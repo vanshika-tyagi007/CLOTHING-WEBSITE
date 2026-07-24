@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MOD APPARELS - Admin Portal</title>
+  <link rel="stylesheet" href="/src/style.css">
+  <link rel="stylesheet" href="/admin.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Anton&display=swap" rel="stylesheet">
+  <script>
+    if (sessionStorage.getItem('isAdmin') !== 'true' && localStorage.getItem('isAdmin') !== 'true') {
+      window.location.href = '/';
+    }
+  </script>
+</head>
+<body class="admin-body">
+  
+  <nav class="navbar-k72 admin-nav">
+    <div class="nav-logo-k72" style="font-family: var(--font-druk); font-size: 2rem; color: #fff;">MOD ADMIN</div>
+    <div class="nav-right-group">
+      <button class="nav-signin-btn" id="admin-logout-btn" style="background: transparent; border: 1px solid #ff4444; color: #ff4444; padding: 0.5rem 1rem; cursor: pointer;">LOGOUT</button>
+    </div>
+  </nav>
+
+  <main class="admin-container section-padding">
+    <div class="admin-sidebar">
+      <button class="admin-tab-btn active" data-target="products-section">Manage Products</button>
+      <button class="admin-tab-btn" data-target="offers-section">Manage Offers</button>
+    </div>
+
+    <div class="admin-content">
+      
+      <!-- Products Section -->
+      <section id="products-section" class="admin-section active">
+        <h2>Manage Products</h2>
+        
+        <div class="admin-control-bar">
+          <select id="category-select" class="admin-select">
+            <option value="Men's Wear">Men's Wear</option>
+            <option value="Women's Wear">Women's Wear</option>
+            <option value="Kids' Apparel">Kids' Apparel</option>
+            <option value="Festive Wear">Festive Wear</option>
+          </select>
+          <button class="cta-button" id="toggle-prices-btn" style="margin-right: 1rem;">Show Prices</button>
+          <button class="cta-button" id="open-add-product-btn">Add New Product</button>
+        </div>
+
+        <div class="table-responsive">
+          <table class="admin-table">
+            <thead>
+              <tr>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Stock Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="products-tbody">
+              <!-- Rendered via JS -->
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Add Product Form (Hidden by default) -->
+        <div id="add-product-form-container" style="display: none; margin-top: 2rem; padding: 2rem; background: #111; border: 1px solid #333;">
+          <h3>Add New Product</h3>
+          <form id="add-product-form" class="admin-form">
+            <input type="text" id="p-name" placeholder="Product Name" required>
+            <input type="number" id="p-price" placeholder="Product Price (Optional)">
+            <input type="text" id="p-image" placeholder="Image URL or Path (e.g., /mens_wear.png)" required>
+            <textarea id="p-desc" placeholder="Product Description" required></textarea>
+            <select id="p-category" class="admin-select" style="margin-bottom: 1rem;">
+              <option value="Men's Wear">Men's Wear</option>
+              <option value="Women's Wear">Women's Wear</option>
+              <option value="Kids' Apparel">Kids' Apparel</option>
+              <option value="Festive Wear">Festive Wear</option>
+            </select>
+            <select id="p-stock" class="admin-select" style="margin-bottom: 1rem;">
+              <option value="true">In Stock</option>
+              <option value="false">Out of Stock</option>
+            </select>
+            <button type="submit" class="cta-button" style="width: 100%; margin-top: 1rem;">Save Product</button>
+            <button type="button" class="cta-button" id="cancel-add-product" style="width: 100%; margin-top: 1rem; background: transparent; border: 1px solid var(--color-accent); color: var(--color-accent);">Cancel</button>
+          </form>
+        </div>
+      </section>
+
+      <!-- Offers Section -->
+      <section id="offers-section" class="admin-section">
+        <h2>Manage Offers</h2>
+        
+        <div class="admin-control-bar">
+          <button class="cta-button" id="open-add-offer-btn">Add New Offer</button>
+        </div>
+
+        <div class="table-responsive">
+          <table class="admin-table">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Discount</th>
+                <th>Button / Link</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="offers-tbody">
+              <!-- Rendered via JS -->
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Add Offer Form -->
+        <div id="add-offer-form-container" style="display: none; margin-top: 2rem; padding: 2rem; background: #111; border: 1px solid #333;">
+          <h3>Add New Offer</h3>
+          <form id="add-offer-form" class="admin-form">
+            <input type="text" id="o-title" placeholder="Offer Title (e.g. Festive Special)" required>
+            <input type="text" id="o-discount" placeholder="Discount Text (e.g. 10% OFF)" required>
+            <textarea id="o-desc" placeholder="Offer Description" required></textarea>
+            <input type="text" id="o-btn" placeholder="Button Text (Optional)">
+            <select id="o-category" class="admin-select" style="margin-bottom: 1rem;">
+              <option value="">No Link</option>
+              <option value="Men's Wear">Men's Wear</option>
+              <option value="Women's Wear">Women's Wear</option>
+              <option value="Kids' Apparel">Kids' Apparel</option>
+              <option value="Festive Wear">Festive Wear</option>
+            </select>
+            <button type="submit" class="cta-button" style="width: 100%; margin-top: 1rem;">Save Offer</button>
+            <button type="button" class="cta-button" id="cancel-add-offer" style="width: 100%; margin-top: 1rem; background: transparent; border: 1px solid var(--color-accent); color: var(--color-accent);">Cancel</button>
+          </form>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <script type="module" src="/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,458 @@
+{
+  "Men's Wear": [
+    {
+      "productName": "Modern White Sherwani",
+      "image": "/catalog/mens_wear.png"
+    },
+    {
+      "productName": "Modern Maroon Casual T-shirt",
+      "image": "/catalog/mens-pic3a.jpg"
+    },
+    {
+      "productName": "Modern Burgundy Winter Coat",
+      "image": "/catalog/men_winter_jacket.png"
+    },
+    {
+      "productName": "Contemporary Style Suit",
+      "image": "/catalog/contemporary-style-suit.jpg"
+    },
+    {
+      "productName": "Classic Plaid Blazer",
+      "image": "/catalog/classic-plaid-blazer.jpg"
+    },
+    {
+      "productName": "Premium Denim Jacket",
+      "image": "/catalog/premium-denim-jacket.jpg"
+    },
+    {
+      "productName": "Elegant Solid Shirt",
+      "image": "/catalog/elegant-solid-shirt.jpg"
+    },
+    {
+      "productName": "Smart Casual Chinos",
+      "image": "/catalog/smart-casual-chinos.jpg"
+    },
+    {
+      "productName": "Modern Urban Hoodie",
+      "image": "/catalog/modern-urban-hoodie.jpg"
+    },
+    {
+      "productName": "Classic Oxford Shirt",
+      "image": "/catalog/classic-oxford-shirt.jpg"
+    },
+    {
+      "productName": "Festive Embroidered Kurta",
+      "image": "/catalog/festive-embroidered-kurta.jpg"
+    },
+    {
+      "productName": "Vibrant Summer T-Shirt",
+      "image": "/catalog/vibrant-summer-t-shirt.jpg"
+    },
+    {
+      "productName": "Sophisticated Overcoat",
+      "image": "/catalog/sophisticated-overcoat.jpg"
+    },
+    {
+      "productName": "Tailored Dress Pants",
+      "image": "/catalog/tailored-dress-pants.jpg"
+    },
+    {
+      "productName": "Casual Printed Shirt",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e32f85e2c?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "productName": "Premium Velvet Blazer",
+      "image": "/catalog/premium-velvet-blazer.jpg"
+    },
+    {
+      "productName": "Classic Polo T-Shirt",
+      "image": "/catalog/classic-polo-t-shirt.jpg"
+    },
+    {
+      "productName": "Traditional Bandhgala Suit",
+      "image": "/catalog/traditional-bandhgala-suit.jpg"
+    },
+    {
+      "productName": "Streetwear Cargo Pants",
+      "image": "/catalog/streetwear-cargo-pants.jpg"
+    },
+    {
+      "productName": "Comfort Fit Sweatpants",
+      "image": "/catalog/comfort-fit-sweatpants.jpg"
+    },
+    {
+      "productName": "Designer Graphic T-Shirt",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "productName": "Linen Blend Shorts",
+      "image": "/catalog/linen-blend-shorts.jpg"
+    },
+    {
+      "productName": "Regal Wedding Sherwani",
+      "image": "/catalog/regal-wedding-sherwani.jpg"
+    },
+    {
+      "productName": "Sleek Turtleneck Sweater",
+      "image": "/catalog/sleek-turtleneck-sweater.jpg"
+    },
+    {
+      "productName": "Versatile Puffer Jacket",
+      "image": "/catalog/versatile-puffer-jacket.jpg"
+    },
+    {
+      "productName": "Chic Linen Trousers",
+      "image": "/catalog/chic-linen-trousers.jpg"
+    },
+    {
+      "productName": "Signature Waistcoat",
+      "image": "/catalog/signature-waistcoat.jpg"
+    }
+  ],
+  "Women's Wear": [
+    {
+      "productName": "Classic Tailored Shirt & Trousers",
+      "image": "/catalog/women-1.jpg"
+    },
+    {
+      "productName": "Tropical Cutout Maxi Dress",
+      "image": "/catalog/women-2.jpeg"
+    },
+    {
+      "productName": "Forest Floral Co-ord Set",
+      "image": "/catalog/women-3.jpeg"
+    },
+    {
+      "productName": "Essential Crop Top & Denim",
+      "image": "/catalog/women-4.jpg"
+    },
+    {
+      "productName": "Good Times Crop Tee & Leggings",
+      "image": "/catalog/women-5.jpg"
+    },
+    {
+      "productName": "Off-the-Shoulder Linen Set",
+      "image": "/catalog/women-6.jpeg"
+    },
+    {
+      "productName": "Navy Empire Maxi Dress",
+      "image": "/catalog/women_empire_dress.png"
+    },
+    {
+      "productName": "Chic Yellow Midi Dress",
+      "image": "/catalog/women_casual_belted.png"
+    },
+    {
+      "productName": "Classic Casual Outfit",
+      "image": "/catalog/classic-casual-outfit.jpg"
+    },
+    {
+      "productName": "Elegant Evening Wear",
+      "image": "/catalog/elegant-evening-wear.jpg"
+    },
+    {
+      "productName": "Chic English Blue Midi Dress",
+      "image": "/catalog/chic-english-blue-midi-dress.webp"
+    },
+    {
+      "productName": "Gemma Tweed Two-Piece Set",
+      "image": "/catalog/gemma-tweed-two-piece-set.jpg"
+    },
+    {
+      "productName": "Contemporary Style Dress",
+      "image": "/catalog/contemporary-style-dress.jpg"
+    },
+    {
+      "productName": "Designer Floral Ensemble",
+      "image": "/catalog/designer-floral-ensemble.jpg"
+    },
+    {
+      "productName": "Urban Chic Dress",
+      "image": "/catalog/urban-chic-dress.jpg"
+    },
+    {
+      "productName": "Sophisticated Statement Look",
+      "image": "/catalog/sophisticated-statement-look.jpg"
+    },
+    {
+      "productName": "Effortless Elegance Dress",
+      "image": "/catalog/effortless-elegance-dress.jpg"
+    },
+    {
+      "productName": "Modern Minimalist Outfit",
+      "image": "/catalog/modern-minimalist-outfit.jpg"
+    },
+    {
+      "productName": "Vibrant Summer Attire",
+      "image": "/catalog/vibrant-summer-attire.jpg"
+    },
+    {
+      "productName": "Premium Crafted Gown",
+      "image": "/catalog/premium-crafted-gown.jpg"
+    },
+    {
+      "productName": "Signature Collection Dress",
+      "image": "/catalog/signature-collection-dress.jpg"
+    },
+    {
+      "productName": "Classic Monochrome Set",
+      "image": "/catalog/classic-monochrome-set.jpg"
+    },
+    {
+      "productName": "Indian Casual Cotton Kurti",
+      "image": "/catalog/kurti_1_1784483069935.png"
+    },
+    {
+      "productName": "Red & Gold Bridal Lehenga",
+      "image": "/catalog/lehenga_1_1784483084576.png"
+    },
+    {
+      "productName": "Pastel Pink Designer Lehenga",
+      "image": "/catalog/lehenga_2_1784483101778.png"
+    },
+    {
+      "productName": "Western Summer Floral Midi",
+      "image": "/catalog/western_1_1784483117722.png"
+    },
+    {
+      "productName": "Emerald Green Evening Gown",
+      "image": "/catalog/western_2_1784483132699.png"
+    },
+    {
+      "productName": "Indo-Western Fusion Set",
+      "image": "/catalog/indo_western_1_1784483155642.png"
+    },
+    {
+      "productName": "Yellow Indian Anarkali Suit",
+      "image": "/catalog/anarkali_1_1784483168929.png"
+    },
+    {
+      "productName": "Modern Black Cocktail Dress",
+      "image": "/catalog/western_3_1784483180680.png"
+    },
+    {
+      "productName": "Ethnic Block Print Maxi",
+      "image": "/catalog/maxi_1_1784483197168.png"
+    },
+    {
+      "productName": "Blue Silk Lehenga Choli",
+      "image": "/catalog/lehenga_3_1784483208450.png"
+    }
+  ],
+  "Kids' Apparel": [
+    {
+      "productName": "Summer Friends Trio",
+      "image": "/catalog/kids_1.png"
+    },
+    {
+      "productName": "Striped Swing Dress",
+      "image": "/catalog/kids_2.png"
+    },
+    {
+      "productName": "Everyday Polo & Tee Set",
+      "image": "/catalog/kids_3.png"
+    },
+    {
+      "productName": "Sibling Summer Coordinates",
+      "image": "/catalog/kids_4.png"
+    },
+    {
+      "productName": "Cotton Candy Stripe Dress",
+      "image": "/catalog/kids_5.png"
+    },
+    {
+      "productName": "Boys' Adventure Tees",
+      "image": "/catalog/kids_6.png"
+    },
+    {
+      "productName": "Sparkly Party Tutu Dress",
+      "image": "/catalog/kids_party_wear.png"
+    },
+    {
+      "productName": "Kids' Style Update",
+      "image": "/catalog/kids-style-update.jpg"
+    },
+    {
+      "productName": "Festive Kids Wear",
+      "image": "/catalog/festive-kids-wear.jpg"
+    },
+    {
+      "productName": "Trendy Kids Outfit",
+      "image": "/catalog/trendy-kids-outfit.jpg"
+    },
+    {
+      "productName": "Kids Celebration Set",
+      "image": "/catalog/kids-celebration-set.jpg"
+    },
+    {
+      "productName": "Kids' Smart Casual Dress",
+      "image": "/catalog/kids-smart-casual-dress.jpg"
+    },
+    {
+      "productName": "Elegant Kids Outfit",
+      "image": "/catalog/elegant-kids-outfit.jpg"
+    },
+    {
+      "productName": "Colorful Kids Set",
+      "image": "/catalog/colorful-kids-set.jpg"
+    },
+    {
+      "productName": "Kids Classic Wear",
+      "image": "/catalog/kids-classic-wear.jpg"
+    },
+    {
+      "productName": "Charming Kids Outfit",
+      "image": "/catalog/charming-kids-outfit.jpg"
+    },
+    {
+      "productName": "Trendy Summer Set",
+      "image": "/catalog/trendy-summer-set.jpg"
+    },
+    {
+      "productName": "Kids Festive Special",
+      "image": "/catalog/kids-festive-special.jpg"
+    },
+    {
+      "productName": "Playful Kids Dress",
+      "image": "/catalog/playful-kids-dress.jpg"
+    }
+  ],
+  "Festive Wear": [
+    {
+      "productName": "Pastel Pink Sharara Set",
+      "image": "/catalog/festive_1.png"
+    },
+    {
+      "productName": "Emerald Green Kurta Set",
+      "image": "/catalog/festive_2.png"
+    },
+    {
+      "productName": "Festive Pink Salwar Suit",
+      "image": "/catalog/festive_3.png"
+    },
+    {
+      "productName": "Mustard Gold Lehenga Skirt",
+      "image": "/catalog/festive_4.png"
+    },
+    {
+      "productName": "Navy Velvet Bandhgala",
+      "image": "/catalog/festive_5.png"
+    },
+    {
+      "productName": "Crimson Waistcoat & Kurta Set",
+      "image": "/catalog/festive_6.png"
+    },
+    {
+      "productName": "Royal Embroidered Sherwani",
+      "image": "/catalog/festive_7.png"
+    },
+    {
+      "productName": "Classic Beige Kurta Set",
+      "image": "/catalog/festive_8.png"
+    },
+    {
+      "productName": "Girls' Traditional Lehenga",
+      "image": "/catalog/festive_9.png"
+    },
+    {
+      "productName": "Boys' Blue Kurta & Nehru Jacket",
+      "image": "/catalog/festive_10.png"
+    },
+    {
+      "productName": "Kids' Festive Coordinates",
+      "image": "/catalog/festive_11.png"
+    },
+    {
+      "productName": "Maroon Velvet Indo-Western",
+      "image": "/catalog/festive_indo_western.png"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 1",
+      "image": "/catalog/exclusive-festive-wear-collection-1.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 2",
+      "image": "/catalog/exclusive-festive-wear-collection-2.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 3",
+      "image": "/catalog/exclusive-festive-wear-collection-3.webp"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 4",
+      "image": "/catalog/exclusive-festive-wear-collection-4.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 5",
+      "image": "/catalog/exclusive-festive-wear-collection-5.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 6",
+      "image": "/catalog/exclusive-festive-wear-collection-6.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 7",
+      "image": "/catalog/exclusive-festive-wear-collection-7.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 8",
+      "image": "/catalog/exclusive-festive-wear-collection-8.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 9",
+      "image": "/catalog/exclusive-festive-wear-collection-9.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 10",
+      "image": "/catalog/exclusive-festive-wear-collection-10.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 11",
+      "image": "/catalog/exclusive-festive-wear-collection-11.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 12",
+      "image": "/catalog/exclusive-festive-wear-collection-12.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 13",
+      "image": "/catalog/exclusive-festive-wear-collection-13.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 14",
+      "image": "/catalog/exclusive-festive-wear-collection-14.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 15",
+      "image": "/catalog/exclusive-festive-wear-collection-15.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 16",
+      "image": "/catalog/exclusive-festive-wear-collection-16.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 17",
+      "image": "/catalog/exclusive-festive-wear-collection-17.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 18",
+      "image": "/catalog/exclusive-festive-wear-collection-18.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 19",
+      "image": "/catalog/exclusive-festive-wear-collection-19.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 20",
+      "image": "/catalog/exclusive-festive-wear-collection-20.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 22",
+      "image": "/catalog/exclusive-festive-wear-collection-22.jpg"
+    },
+    {
+      "productName": "Exclusive Festive Wear Collection 23",
+      "image": "/catalog/exclusive-festive-wear-collection-23.jpg"
+    }
+  ]
+}

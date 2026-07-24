@@ -1,0 +1,2623 @@
+{
+  "Men's Wear": [
+    {
+      "name": "Modern White Sherwani",
+      "image": "/catalog/mens_wear.png",
+      "desc": "Expertly crafted for the modern man, this modern white sherwani, designed with high-quality fabrics to provide an exceptional fit and unparalleled style for any occasion.",
+      "price": 4082,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Office",
+        "Party",
+        "Festive"
+      ],
+      "imageHash": "9514d70562b46649577c4e796f555cd101c70c929179dae8450ae6fc66adaa6d"
+    },
+    {
+      "name": "Modern Maroon Casual T-shirt",
+      "image": "/catalog/mens-pic3a.jpg",
+      "desc": "Step out in style with this modern maroon casual t-shirt, designed with high-quality fabrics to provide an exceptional fit and unparalleled style for any occasion.",
+      "price": 8734,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Maroon"
+      ],
+      "occasions": [
+        "Casual",
+        "Office",
+        "Party",
+        "Festive"
+      ],
+      "imageHash": "eef493ad493c259c7457cfcae3a067176c2812097af0e6b9f4eab66a5809ef4d"
+    },
+    {
+      "name": "Modern Burgundy Winter Coat",
+      "image": "/catalog/men_winter_jacket.png",
+      "desc": "Experience ultimate comfort and fashion with our modern burgundy winter coat, designed with high-quality fabrics to provide an exceptional fit and unparalleled style for any occasion.",
+      "price": 12013,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Burgundy"
+      ],
+      "imageHash": "5b541c2cbea4d23f55baf3279a4af4638545bbb3f5b51796a49efde7e2b1b2d2"
+    },
+    {
+      "name": "Contemporary Style Suit",
+      "image": "/catalog/contemporary-style-suit.jpg",
+      "desc": "A contemporary suit blending timeless tailoring with a modern silhouette.",
+      "price": 6499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Navy",
+        "Charcoal"
+      ],
+      "occasions": [
+        "Formal",
+        "Wedding"
+      ],
+      "imageHash": "0cb426318e0e8f84451178999173e7e2f68088130c06b889df7f00ff821862bd"
+    },
+    {
+      "name": "Classic Plaid Blazer",
+      "image": "/catalog/classic-plaid-blazer.jpg",
+      "desc": "Step up your style with this classic plaid blazer, a perfect layering piece for any season.",
+      "price": 4999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Plaid",
+        "Grey"
+      ],
+      "occasions": [
+        "Office",
+        "Smart Casual"
+      ],
+      "imageHash": "06f4947d55277ae6c353b7cc7292c9b8d3a3f96d3f67d2ff99c9ad559ddec48a"
+    },
+    {
+      "name": "Premium Denim Jacket",
+      "image": "/catalog/premium-denim-jacket.jpg",
+      "desc": "A premium denim jacket that adds an edgy and stylish touch to your casual outfits.",
+      "price": 2999,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Blue Denim"
+      ],
+      "occasions": [
+        "Casual",
+        "Party"
+      ],
+      "imageHash": "4436d5ff00048fcd40f17b6842bfd42a9feb2b8c30f648fc7db7f9d03ce7a2a0"
+    },
+    {
+      "name": "Elegant Solid Shirt",
+      "image": "/catalog/elegant-solid-shirt.jpg",
+      "desc": "An elegantly tailored solid shirt crafted for supreme comfort and office-ready sophistication.",
+      "price": 1999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "White",
+        "Light Blue"
+      ],
+      "occasions": [
+        "Office",
+        "Formal"
+      ],
+      "imageHash": "65d2143dce0015a0eaccfb642f0968c45f2ef590c4bef1e5f0a5c1ba27139464"
+    },
+    {
+      "name": "Smart Casual Chinos",
+      "image": "/catalog/smart-casual-chinos.jpg",
+      "desc": "Versatile smart casual chinos designed to offer both stretch and structure for everyday wear.",
+      "price": 2499,
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "Khaki",
+        "Navy"
+      ],
+      "occasions": [
+        "Casual",
+        "Office"
+      ],
+      "imageHash": "490d5dcadedbe57b105c904d62e9697d6ed890e2f21ec6b037563a90baeb88b2"
+    },
+    {
+      "name": "Modern Urban Hoodie",
+      "image": "/catalog/modern-urban-hoodie.jpg",
+      "desc": "Stay warm and trendy with this modern urban hoodie, perfect for relaxed weekends.",
+      "price": 2299,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Black",
+        "Grey"
+      ],
+      "occasions": [
+        "Casual",
+        "Lounge"
+      ],
+      "imageHash": "7811c468f019bb66c4c063e7bdd4168a3eaa56615f3c9219c20277ea4796bb16"
+    },
+    {
+      "name": "Classic Oxford Shirt",
+      "image": "/catalog/classic-oxford-shirt.jpg",
+      "desc": "A timeless classic Oxford shirt that transitions effortlessly from desk to dinner.",
+      "price": 2199,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "occasions": [
+        "Office",
+        "Smart Casual"
+      ],
+      "imageHash": "e59d6ecb267c1aecd0ca196ca52a966ec76ba12fd1cf729281033d8be36445ef"
+    },
+    {
+      "name": "Festive Embroidered Kurta",
+      "image": "/catalog/festive-embroidered-kurta.jpg",
+      "desc": "A festive embroidered Kurta that brings traditional elegance to your celebratory wardrobe.",
+      "price": 3499,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Maroon",
+        "Gold"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding"
+      ],
+      "imageHash": "0c28accdb3410400855ad9a262b656860b301c6c73c6a8aa17d490f97bc3d323"
+    },
+    {
+      "name": "Vibrant Summer T-Shirt",
+      "image": "/catalog/vibrant-summer-t-shirt.jpg",
+      "desc": "A vibrant and breathable summer T-shirt featuring a tailored fit for everyday comfort.",
+      "price": 999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Yellow",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ],
+      "imageHash": "01e15ecb4bb4617a6c512d5265aabfbe3626d1da238269bbafd452dc8d6804d7"
+    },
+    {
+      "name": "Sophisticated Overcoat",
+      "image": "/catalog/sophisticated-overcoat.jpg",
+      "desc": "Elevate your winter style with this sophisticated overcoat crafted from premium wool blend.",
+      "price": 7999,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Camel",
+        "Charcoal"
+      ],
+      "occasions": [
+        "Formal",
+        "Winter wear"
+      ],
+      "imageHash": "0a59da6ca6034a3532204b45bbe32bb2f87243c428e2a59774d3f2fd0016f297"
+    },
+    {
+      "name": "Tailored Dress Pants",
+      "image": "/catalog/tailored-dress-pants.jpg",
+      "desc": "Expertly tailored dress pants that offer a sharp crease and a sleek profile.",
+      "price": 2799,
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "Black",
+        "Navy"
+      ],
+      "occasions": [
+        "Office",
+        "Formal"
+      ],
+      "imageHash": "b1b4385b84a392a03d44efee044f387347109885a5e55d93e20b1c9ac5b8c663"
+    },
+    {
+      "name": "Casual Printed Shirt",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e32f85e2c?q=80&w=600&auto=format&fit=crop",
+      "desc": "A fun and breezy casual printed shirt, ideal for weekend getaways and beach vacations.",
+      "price": 1899,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Printed",
+        "Multicolor"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ]
+    },
+    {
+      "name": "Premium Velvet Blazer",
+      "image": "/catalog/premium-velvet-blazer.jpg",
+      "desc": "Make a statement at any evening event with this luxurious premium velvet blazer.",
+      "price": 6599,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Burgundy",
+        "Black"
+      ],
+      "occasions": [
+        "Party",
+        "Wedding"
+      ],
+      "imageHash": "89dd2ca263d6b756d314b3e54dfcfd80fed3f90b21ee1daa7a61a4f28ca28f4f"
+    },
+    {
+      "name": "Classic Polo T-Shirt",
+      "image": "/catalog/classic-polo-t-shirt.jpg",
+      "desc": "A wardrobe staple, this classic polo t-shirt provides a sharp yet relaxed aesthetic.",
+      "price": 1299,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Navy",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Smart Casual"
+      ],
+      "imageHash": "0574eaeadb775a1f620e4ce7bbec5354e7ab35f9ea2e5ddbae7d114f7605526c"
+    },
+    {
+      "name": "Traditional Bandhgala Suit",
+      "image": "/catalog/traditional-bandhgala-suit.jpg",
+      "desc": "A traditional Bandhgala suit tailored to perfection for an authoritative and regal look.",
+      "price": 8999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Black",
+        "Navy"
+      ],
+      "occasions": [
+        "Wedding",
+        "Formal"
+      ],
+      "imageHash": "a4ae86dd1fc7be47409dedeba7069f4cbba2a7b6f4a095d7b71115909828622b"
+    },
+    {
+      "name": "Streetwear Cargo Pants",
+      "image": "/catalog/streetwear-cargo-pants.jpg",
+      "desc": "Durable and stylish streetwear cargo pants equipped with utility pockets.",
+      "price": 2599,
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "Olive",
+        "Khaki"
+      ],
+      "occasions": [
+        "Casual",
+        "Streetwear"
+      ],
+      "imageHash": "bc06d971e3cebaae3b507021645dcc08964f48e24d3ec59167b3004a6df47200"
+    },
+    {
+      "name": "Comfort Fit Sweatpants",
+      "image": "/catalog/comfort-fit-sweatpants.jpg",
+      "desc": "Ultimate comfort fit sweatpants designed for lounging, gym sessions, or casual outings.",
+      "price": 1799,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Grey",
+        "Black"
+      ],
+      "occasions": [
+        "Lounge",
+        "Gym"
+      ],
+      "imageHash": "31edc496041c754463fe6ab04d205d7b7b3b8e5bf73514e16e099bcaa90ceb93"
+    },
+    {
+      "name": "Designer Graphic T-Shirt",
+      "image": "/catalog/designer-graphic-t-shirt.jpg",
+      "desc": "A trendy designer graphic t-shirt to elevate your everyday casual attire.",
+      "price": 1499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "occasions": [
+        "Casual",
+        "Party"
+      ],
+      "imageHash": "5cd871ef8c29460086805a16eed627605bed0ea490c79800c10a4e2bfe57e3ec"
+    },
+    {
+      "name": "Linen Blend Shorts",
+      "image": "/catalog/linen-blend-shorts.jpg",
+      "desc": "Beat the heat in these breathable linen blend shorts with a tailored finish.",
+      "price": 1599,
+      "sizes": [
+        "30",
+        "32",
+        "34"
+      ],
+      "colors": [
+        "Beige",
+        "Light Blue"
+      ],
+      "occasions": [
+        "Vacation",
+        "Casual"
+      ],
+      "imageHash": "ae86b7f34d8275e58b8d97c47680ffdd46d686ae3950a75f89a48d184131d1e4"
+    },
+    {
+      "name": "Regal Wedding Sherwani",
+      "image": "/catalog/regal-wedding-sherwani.jpg",
+      "desc": "A regal wedding Sherwani embellished with delicate traditional patterns.",
+      "price": 14999,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Ivory",
+        "Gold"
+      ],
+      "occasions": [
+        "Wedding",
+        "Festive"
+      ],
+      "imageHash": "09fc515817009d78b2e6a50afb237f93cfe3a5bb811d62da35ab482ef1ead26c"
+    },
+    {
+      "name": "Sleek Turtleneck Sweater",
+      "image": "/catalog/sleek-turtleneck-sweater.jpg",
+      "desc": "A sleek turtleneck sweater providing a minimalist and highly sophisticated profile.",
+      "price": 2499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Black",
+        "Maroon"
+      ],
+      "occasions": [
+        "Smart Casual",
+        "Winter wear"
+      ],
+      "imageHash": "53a27f8585576b16314ab674d4b0b03bc2829c55d196af75284f981d542510e9"
+    },
+    {
+      "name": "Versatile Puffer Jacket",
+      "image": "/catalog/versatile-puffer-jacket.jpg",
+      "desc": "A versatile and lightweight puffer jacket that offers supreme warmth without the bulk.",
+      "price": 3999,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Navy",
+        "Olive"
+      ],
+      "occasions": [
+        "Casual",
+        "Winter wear"
+      ],
+      "imageHash": "724e82bf80ce0b46809bd87dc181b1d3ef540e6338b08a06fb50481e7c9992aa"
+    },
+    {
+      "name": "Chic Linen Trousers",
+      "image": "/catalog/chic-linen-trousers.jpg",
+      "desc": "Chic linen trousers offering a relaxed fit, perfect for summer days and resort wear.",
+      "price": 2299,
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "White",
+        "Beige"
+      ],
+      "occasions": [
+        "Vacation",
+        "Casual"
+      ],
+      "imageHash": "4ac1ba92eb5014c97f914ed124eaa44c3bc08d0d8aaf82eb1b14430dc6621ff4"
+    },
+    {
+      "name": "Signature Waistcoat",
+      "image": "/catalog/signature-waistcoat.jpg",
+      "desc": "Complete your formal ensemble with this signature waistcoat tailored for a flattering fit.",
+      "price": 3299,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Grey",
+        "Navy"
+      ],
+      "occasions": [
+        "Formal",
+        "Wedding"
+      ],
+      "imageHash": "f0a03b1a518a5dce89fcd21b54f74bbaf5dc5ca7ec683d9d4c1b7697118a86be"
+    }
+  ],
+  "Women's Wear": [
+    {
+      "name": "Classic Tailored Shirt & Trousers",
+      "image": "/catalog/women-1.jpg",
+      "desc": "A crisp, white long-sleeve button-up paired with high-waisted beige trousers for a sharp, sophisticated office look.",
+      "price": 3499,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "White",
+        "Beige"
+      ],
+      "occasions": [
+        "Office",
+        "Family Function"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Rectangle",
+        "Apple"
+      ],
+      "imageHash": "54aeb9cfbc71c6dc5134c7ecbc3444d7583f4b8ed3b893fa664fee94bfc89d37"
+    },
+    {
+      "name": "Tropical Cutout Maxi Dress",
+      "image": "/catalog/women-2.jpeg",
+      "desc": "A vibrant olive and yellow patterned sleeveless maxi dress featuring elegant side cutouts for a breezy summer aesthetic.",
+      "price": 4299,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Olive",
+        "Yellow",
+        "Green"
+      ],
+      "occasions": [
+        "Vacation",
+        "Party",
+        "Date Night"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Rectangle",
+        "Pear",
+        "Inverted Triangle"
+      ],
+      "imageHash": "b55a6ff926048b10da9a5274813f40854f79d8d2893121b5847315347302f57b"
+    },
+    {
+      "name": "Forest Floral Co-ord Set",
+      "image": "/catalog/women-3.jpeg",
+      "desc": "A chic dark green co-ord set adorned with delicate floral patterns, featuring a long tunic shirt and matching trousers.",
+      "price": 3899,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Green",
+        "Dark Green"
+      ],
+      "occasions": [
+        "Casual",
+        "Family Function",
+        "Vacation"
+      ],
+      "bodyShapes": [
+        "Apple",
+        "Pear",
+        "Hourglass"
+      ],
+      "imageHash": "c9337ae191c1d21c96f62498a756309905d0774361847a8767c3e0c5b44df058"
+    },
+    {
+      "name": "Essential Crop Top & Denim",
+      "image": "/catalog/women-4.jpg",
+      "desc": "A clean, modern casual pairing featuring a fitted black crewneck crop top and classic high-waisted blue denim jeans.",
+      "price": 2499,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "occasions": [
+        "Casual",
+        "College",
+        "Date Night"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear",
+        "Inverted Triangle"
+      ],
+      "imageHash": "16850344e87dfc2f134b65b5faa9841da2441edd097be51c0a8bb5980ca8c75a"
+    },
+    {
+      "name": "Good Times Crop Tee & Leggings",
+      "image": "/catalog/women-5.jpg",
+      "desc": "A comfortable pastel pink graphic crop tee styled with dark brown leggings, designed for stylish daily leisure.",
+      "price": 1999,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Pink",
+        "Brown"
+      ],
+      "occasions": [
+        "Casual",
+        "College",
+        "Vacation"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Rectangle"
+      ],
+      "imageHash": "e4e16e65fe145e0cb1c523fa68238e15e83dab99f79aed61b228b52b431fc9d6"
+    },
+    {
+      "name": "Off-the-Shoulder Linen Set",
+      "image": "/catalog/women-6.jpeg",
+      "desc": "A premium light olive-beige linen co-ord set featuring a relaxed off-the-shoulder top and matching tailored trousers.",
+      "price": 4599,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Beige",
+        "Olive"
+      ],
+      "occasions": [
+        "Vacation",
+        "Date Night",
+        "Casual"
+      ],
+      "bodyShapes": [
+        "Pear",
+        "Hourglass",
+        "Inverted Triangle"
+      ],
+      "imageHash": "10d4ce302991975ed643af4a0ef7cf565fc2804bb4febdf12c3ed27494e47ddd"
+    },
+    {
+      "name": "Navy Empire Maxi Dress",
+      "image": "/catalog/women_empire_dress.png",
+      "desc": "A beautiful empire-waist flowy maxi dress in navy blue color for women, perfect for formal occasions and date nights.",
+      "price": 5999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Navy",
+        "Blue"
+      ],
+      "occasions": [
+        "Date Night",
+        "Party",
+        "Formal"
+      ],
+      "bodyShapes": [
+        "Apple",
+        "Hourglass",
+        "Rectangle"
+      ],
+      "imageHash": "964ed5b024c33dcea8035521ac440df8f4d40add3299e71b3eb9515bafb2385d"
+    },
+    {
+      "name": "Chic Yellow Midi Dress",
+      "image": "/catalog/women_casual_belted.png",
+      "desc": "A chic women's casual summer midi dress in light yellow with a defined brown waist belt.",
+      "price": 3499,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Yellow",
+        "Brown"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation",
+        "Date Night"
+      ],
+      "bodyShapes": [
+        "Rectangle",
+        "Hourglass"
+      ],
+      "imageHash": "9bd1bdb9b7d7e492fd0300cbbd2c00c340645abf8d5a40d49354b2ee38458ca5"
+    },
+    {
+      "name": "Classic Casual Outfit",
+      "image": "/catalog/classic-casual-outfit.jpg",
+      "desc": "A timeless casual look with a premium quality finish, perfect for your everyday style.",
+      "price": 2499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Day Out"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear",
+        "Rectangle"
+      ],
+      "imageHash": "4e49c06b0797cf488219feda80e8c472c5ee651f62916cc6141ad7e995dcfe6c"
+    },
+    {
+      "name": "Elegant Evening Wear",
+      "image": "/catalog/elegant-evening-wear.jpg",
+      "desc": "Step into the night with this elegant and sophisticated evening ensemble.",
+      "price": 4999,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "occasions": [
+        "Party",
+        "Date Night",
+        "Formal"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Apple"
+      ],
+      "imageHash": "2faf248be76f5c2e15231a699ba1d54e20b8d6825675efdd43c746cda4324a07"
+    },
+    {
+      "name": "Chic English Blue Midi Dress",
+      "image": "/catalog/chic-english-blue-midi-dress.webp",
+      "desc": "A chic tiered midi dress in English blue with a beautiful back bow detail for an elegant touch.",
+      "price": 3299,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Pear",
+        "Rectangle",
+        "Hourglass"
+      ],
+      "imageHash": "ece4c56af181dfc131ba740c9a910ef5867cc2a3a04d905b8d67ff0ef1af3f4d"
+    },
+    {
+      "name": "Gemma Tweed Two-Piece Set",
+      "image": "/catalog/gemma-tweed-two-piece-set.jpg",
+      "desc": "A luxurious tweed two-piece set combining classic texture with modern elegance.",
+      "price": 5499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Grey",
+        "White"
+      ],
+      "occasions": [
+        "Office",
+        "Formal",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Inverted Triangle"
+      ],
+      "imageHash": "6e01751e0ada49314a6671ce20245fd0fb7bfe2bda6bd632c9ecc5b40a910683"
+    },
+    {
+      "name": "Contemporary Style Dress",
+      "image": "/catalog/contemporary-style-dress.jpg",
+      "desc": "A contemporary design combining comfort and high fashion for the modern woman.",
+      "price": 2999,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Pink",
+        "Beige"
+      ],
+      "occasions": [
+        "Casual",
+        "Date Night"
+      ],
+      "bodyShapes": [
+        "Rectangle",
+        "Apple"
+      ],
+      "imageHash": "bda644261735fba975bac77d26f14838a779c5a7cd3c7c5f89277fd3d3150166"
+    },
+    {
+      "name": "Designer Floral Ensemble",
+      "image": "/catalog/designer-floral-ensemble.jpg",
+      "desc": "Embrace the season with this stunning designer floral outfit, crafted for ultimate grace.",
+      "price": 4299,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Floral",
+        "Green",
+        "Pink"
+      ],
+      "occasions": [
+        "Wedding",
+        "Festive",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear"
+      ],
+      "imageHash": "bb35d4b7866046e2e8ccf9a88f9554b15c9a38eddaf8bf01f268b648c7284283"
+    },
+    {
+      "name": "Urban Chic Dress",
+      "image": "/catalog/urban-chic-dress.jpg",
+      "desc": "Stand out in the city with this chic and comfortable urban-inspired dress.",
+      "price": 3799,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Red",
+        "Black"
+      ],
+      "occasions": [
+        "Casual",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Rectangle",
+        "Hourglass"
+      ],
+      "imageHash": "6d4dd735c64b947eed957fe143ae123b02aba8209bd77b596cba63d3e046c9da"
+    },
+    {
+      "name": "Sophisticated Statement Look",
+      "image": "/catalog/sophisticated-statement-look.jpg",
+      "desc": "Make a bold statement with this sophisticated and masterfully tailored outfit.",
+      "price": 6499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "White",
+        "Gold"
+      ],
+      "occasions": [
+        "Formal",
+        "Wedding"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear",
+        "Apple"
+      ],
+      "imageHash": "96d33f951efb533d34cfe4f094555405c90150b398b45f192685dd4dabc30651"
+    },
+    {
+      "name": "Effortless Elegance Dress",
+      "image": "/catalog/effortless-elegance-dress.jpg",
+      "desc": "Achieve effortless elegance with this flawlessly draped and exceptionally soft dress.",
+      "price": 3999,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Maroon",
+        "Wine"
+      ],
+      "occasions": [
+        "Date Night",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Rectangle"
+      ],
+      "imageHash": "8586cd5a33c7e43c534c7e063ee0bc7a421189c3c51b6843b3202c7a9bc84d8b"
+    },
+    {
+      "name": "Modern Minimalist Outfit",
+      "image": "/catalog/modern-minimalist-outfit.jpg",
+      "desc": "A modern minimalist design highlighting clean lines and a premium silhouette.",
+      "price": 2899,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Grey",
+        "Black"
+      ],
+      "occasions": [
+        "Office",
+        "Casual"
+      ],
+      "bodyShapes": [
+        "Rectangle",
+        "Inverted Triangle"
+      ],
+      "imageHash": "6db1ba26849084f9a974e24fbdac44e59e6b7b68146c56529a26167b6cc94227"
+    },
+    {
+      "name": "Vibrant Summer Attire",
+      "image": "/catalog/vibrant-summer-attire.jpg",
+      "desc": "Bring vibrance to your wardrobe with this bright and airy summer essential.",
+      "price": 2499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Yellow",
+        "Orange"
+      ],
+      "occasions": [
+        "Vacation",
+        "Casual"
+      ],
+      "bodyShapes": [
+        "Apple",
+        "Hourglass"
+      ],
+      "imageHash": "abfda698bb661215a2ae0abec07aa40c3c55d8bb0be0ab070d774824d336a448"
+    },
+    {
+      "name": "Premium Crafted Gown",
+      "image": "/catalog/premium-crafted-gown.jpg",
+      "desc": "A premium crafted gown tailored to perfection for your most special occasions.",
+      "price": 8999,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Navy",
+        "Silver"
+      ],
+      "occasions": [
+        "Wedding",
+        "Formal"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear"
+      ],
+      "imageHash": "0405c30544c37072d9dd3c3a99a7f7c7bf7aced2fb212111ccceb23735543b5e"
+    },
+    {
+      "name": "Signature Collection Dress",
+      "image": "/catalog/signature-collection-dress.jpg",
+      "desc": "Part of our signature collection, featuring exquisite details and a flattering fit.",
+      "price": 5299,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Emerald",
+        "Green"
+      ],
+      "occasions": [
+        "Party",
+        "Festive"
+      ],
+      "bodyShapes": [
+        "Rectangle",
+        "Hourglass"
+      ],
+      "imageHash": "eb166f63a6898bad0384d8d14b3f5483022a414e8b6e814e2a51e06aac317a98"
+    },
+    {
+      "name": "Classic Monochrome Set",
+      "image": "/catalog/classic-monochrome-set.jpg",
+      "desc": "A beautiful monochrome set offering a timeless and versatile styling option.",
+      "price": 3499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Office"
+      ],
+      "bodyShapes": [
+        "Apple",
+        "Inverted Triangle"
+      ],
+      "imageHash": "d7a821e3f25054447e9a5c804c9febec7079332dbe3810520f9522cf48058e2a"
+    },
+    {
+      "name": "Indian Casual Cotton Kurti",
+      "image": "/catalog/kurti_1_1784483069935.png",
+      "desc": "A beautiful and comfortable Indian casual cotton kurti with floral prints, perfect for daily wear.",
+      "price": 1599,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "White",
+        "Floral"
+      ],
+      "occasions": [
+        "Casual",
+        "Office"
+      ],
+      "bodyShapes": [
+        "Pear",
+        "Rectangle"
+      ],
+      "imageHash": "d6eac75f14b9de2e61f623995d03550c732a8e854bd8502f945b58221a64da8e"
+    },
+    {
+      "name": "Red & Gold Bridal Lehenga",
+      "image": "/catalog/lehenga_1_1784483084576.png",
+      "desc": "A stunning red and gold bridal lehenga, meticulously crafted with premium embroidery for your special day.",
+      "price": 18999,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Red",
+        "Gold"
+      ],
+      "occasions": [
+        "Wedding",
+        "Festive"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear"
+      ],
+      "imageHash": "30c50f2f61ec54719706c92e3b474173fc05e99237692d5433516974a49e208e"
+    },
+    {
+      "name": "Pastel Pink Designer Lehenga",
+      "image": "/catalog/lehenga_2_1784483101778.png",
+      "desc": "A soft pastel pink designer lehenga featuring intricate silver embroidery for a highly elegant look.",
+      "price": 14599,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Pink",
+        "Silver"
+      ],
+      "occasions": [
+        "Wedding",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Rectangle"
+      ],
+      "imageHash": "dc97e96fa875bee4b4c3fd426f59ccec107c167169b11d82f85481d8f88c1383"
+    },
+    {
+      "name": "Western Summer Floral Midi",
+      "image": "/catalog/western_1_1784483117722.png",
+      "desc": "A chic western summer floral midi dress, perfect for outdoor events, brunches, and day parties.",
+      "price": 2799,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Floral",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ],
+      "bodyShapes": [
+        "Apple",
+        "Rectangle"
+      ],
+      "imageHash": "78f323f05d2f2bbec349262ddff6168cf15fafb58464b3523f0dc0438a2f1fee"
+    },
+    {
+      "name": "Emerald Green Evening Gown",
+      "image": "/catalog/western_2_1784483132699.png",
+      "desc": "An elegant emerald green evening gown that brings a sophisticated western flair to formal occasions.",
+      "price": 8499,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Green",
+        "Emerald"
+      ],
+      "occasions": [
+        "Formal",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Inverted Triangle"
+      ],
+      "imageHash": "ccef27d796623fe820533caa72e528488f2b34229ec5e0106261e6a4e967c3fd"
+    },
+    {
+      "name": "Indo-Western Fusion Set",
+      "image": "/catalog/indo_western_1_1784483155642.png",
+      "desc": "A beautiful Indo-western fusion co-ord set, combining traditional motifs with modern silhouettes.",
+      "price": 4599,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor"
+      ],
+      "occasions": [
+        "Party",
+        "Casual",
+        "Festive"
+      ],
+      "bodyShapes": [
+        "Rectangle",
+        "Hourglass"
+      ],
+      "imageHash": "22a91338d0fb56042d685bce90e0eb5cf87065e2d03af7c126e926b2b5d60e30"
+    },
+    {
+      "name": "Yellow Indian Anarkali Suit",
+      "image": "/catalog/anarkali_1_1784483168929.png",
+      "desc": "A vibrant yellow and white Anarkali suit designed for comfort and casual ethnic style.",
+      "price": 3299,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XXL"
+      ],
+      "colors": [
+        "Yellow",
+        "White"
+      ],
+      "occasions": [
+        "Festive",
+        "Casual"
+      ],
+      "bodyShapes": [
+        "Pear",
+        "Apple"
+      ],
+      "imageHash": "d96a2490280e47a0ca53264e813a4fe340e203292a85829bb166ddf514875c09"
+    },
+    {
+      "name": "Modern Black Cocktail Dress",
+      "image": "/catalog/western_3_1784483180680.png",
+      "desc": "A sleek and elegant modern western cocktail dress in black, a true wardrobe essential.",
+      "price": 4999,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "occasions": [
+        "Date Night",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Rectangle"
+      ],
+      "imageHash": "b0299512d1e2ee058e41289cf2cd72d78bfeb1c6642b19533af93a531401ec53"
+    },
+    {
+      "name": "Ethnic Block Print Maxi",
+      "image": "/catalog/maxi_1_1784483197168.png",
+      "desc": "A breezy casual maxi dress featuring authentic Indian ethnic block prints.",
+      "price": 2499,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ],
+      "bodyShapes": [
+        "Rectangle",
+        "Apple"
+      ],
+      "imageHash": "5dd1605b873b9a0eefc2ce260fd4fbad2a4396056490b6f19d00b489b9e0c426"
+    },
+    {
+      "name": "Blue Silk Lehenga Choli",
+      "image": "/catalog/lehenga_3_1784483208450.png",
+      "desc": "A traditional yet modern blue silk lehenga choli, featuring rich texture and graceful flow.",
+      "price": 12999,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Blue",
+        "Gold"
+      ],
+      "occasions": [
+        "Wedding",
+        "Festive"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear"
+      ],
+      "imageHash": "83e7c5250c1fde58755ba539c922389b0caadf76ce6ae3e32386ed08794671b9"
+    }
+  ],
+  "Kids' Apparel": [
+    {
+      "name": "Summer Friends Trio",
+      "image": "/catalog/kids_1.png",
+      "desc": "A lively trio of everyday essentials featuring a classic yellow striped tee, a floral print sun dress, and a comfortable green graphic tee.",
+      "price": 1499,
+      "sizes": [
+        "2-3Y",
+        "4-5Y",
+        "6-7Y"
+      ],
+      "colors": [
+        "Yellow",
+        "Pink",
+        "Green"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ],
+      "fabric": "Cotton",
+      "imageHash": "61bf5c7f8a16cdff9429ca238943fccfb1391c62019041e1a73b05fe4e9ff547",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Striped Swing Dress",
+      "image": "/catalog/kids_2.png",
+      "desc": "A cheerful and breezy pink-and-white striped cotton knit dress, perfect for warm summer days at the playground.",
+      "price": 1199,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Family Function"
+      ],
+      "fabric": "Cotton Knit",
+      "imageHash": "ec01027dc8349b04a4a8259edc78f272875700104906e10db6f78f6672f6e169",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Everyday Polo & Tee Set",
+      "image": "/catalog/kids_3.png",
+      "desc": "Comfortable cotton tops for boys, including a playful orange dinosaur graphic tee and a classic color-blocked green polo.",
+      "price": 1299,
+      "sizes": [
+        "2-3Y",
+        "4-5Y",
+        "6-7Y"
+      ],
+      "colors": [
+        "Orange",
+        "Green"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ],
+      "fabric": "Cotton",
+      "imageHash": "a80b39884f4ff8400f60f2d7e95cd6d2c0b9cffbbaafbf84a53665123569a6aa",
+      "targetGender": "Boys"
+    },
+    {
+      "name": "Sibling Summer Coordinates",
+      "image": "/catalog/kids_4.png",
+      "desc": "Chic, easy-to-style summer outfits including a denim skirt pairing, a blue floral dress, and a soft graphic t-shirt.",
+      "price": 1899,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Blue",
+        "Pink",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Family Function"
+      ],
+      "fabric": "Cotton & Denim",
+      "imageHash": "687ad865768a9924ac19b82a12c5d4a8ca16df3adec4099e6a46cff5d66073d0",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Cotton Candy Stripe Dress",
+      "image": "/catalog/kids_5.png",
+      "desc": "An ultra-soft, breathable striped dress designed for active girls, featuring a stretch waistband for comfort.",
+      "price": 1299,
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y"
+      ],
+      "colors": [
+        "Pink",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Family Function"
+      ],
+      "fabric": "Breathable Cotton",
+      "imageHash": "d150a282953360667dad00094d57307d94840d20d5420750ee8a5d7d0d005a53",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Boys' Adventure Tees",
+      "image": "/catalog/kids_6.png",
+      "desc": "Durable and stylish boys' casual shirts—ideal for playground adventures and relaxed weekend outings.",
+      "price": 999,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Blue",
+        "Grey",
+        "Green"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ],
+      "fabric": "Durable Cotton",
+      "imageHash": "865c46dcb6d3c0d1cc5ad2167c811f0cdc422dd42e38620530bd33a721b37c0a",
+      "targetGender": "Boys"
+    },
+    {
+      "name": "Sparkly Party Tutu Dress",
+      "image": "/catalog/kids_party_wear.png",
+      "desc": "A cute kids party dress for girls, sparkly silver and pastel blue tutu dress.",
+      "price": 2499,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Silver",
+        "Blue",
+        "Pastel"
+      ],
+      "occasions": [
+        "Party",
+        "Family Function",
+        "Festive"
+      ],
+      "fabric": "Tulle & Silk",
+      "imageHash": "28d099d2620e3808631606852915601ef8fdd626d4cce469dc513ec67f401c28",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Kids' Style Update",
+      "image": "/catalog/kids-style-update.jpg",
+      "desc": "Latest collection for kids featuring modern styles.",
+      "price": 1599,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Mixed"
+      ],
+      "occasions": [
+        "Casual"
+      ],
+      "fabric": "Cotton",
+      "imageHash": "873b2a20143b10d4dafb0b679fed6e5456fe925db78d583304d00eeb04e16204",
+      "targetGender": "Boys"
+    },
+    {
+      "name": "Festive Kids Wear",
+      "image": "/catalog/festive-kids-wear.jpg",
+      "desc": "Beautiful kids' outfit for festive occasions.",
+      "price": 1999,
+      "sizes": [
+        "2-3Y",
+        "4-5Y",
+        "6-7Y"
+      ],
+      "colors": [
+        "Festive"
+      ],
+      "occasions": [
+        "Party",
+        "Festive"
+      ],
+      "fabric": "Silk Blend",
+      "imageHash": "78a50b324ff2fe32ff8e07eaa9e96ea1cf101a73b72215ccfe6eb8b8f62fc049",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Trendy Kids Outfit",
+      "image": "/catalog/trendy-kids-outfit.jpg",
+      "desc": "Stylish and comfortable everyday wear for kids.",
+      "price": 1399,
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y"
+      ],
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ],
+      "fabric": "Cotton Blend",
+      "imageHash": "1779c41ab02b7dcf5130d1dfdc9fafb4ddc8178d2c6487965ed138570908dd15",
+      "targetGender": "Boys"
+    },
+    {
+      "name": "Kids Celebration Set",
+      "image": "/catalog/kids-celebration-set.jpg",
+      "desc": "Elegant and cute outfit for special celebrations.",
+      "price": 1799,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "White",
+        "Gold"
+      ],
+      "occasions": [
+        "Party",
+        "Family Function"
+      ],
+      "fabric": "Premium Cotton",
+      "imageHash": "a02007ea10a8932c9e06ec0b27fca60bef76c1d7d27ac774374e7a3acecfc5ce",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Kids' Smart Casual Dress",
+      "image": "/catalog/kids-smart-casual-dress.jpg",
+      "desc": "A beautiful kids' dress perfect for any occasion.",
+      "price": 1599,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Pastel"
+      ],
+      "occasions": [
+        "Casual",
+        "Party"
+      ],
+      "fabric": "Cotton Blend",
+      "imageHash": "98a69065deb4e84abbf97153cba108f9cc479c26d3d073b9f2ad738857a05642",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Elegant Kids Outfit",
+      "image": "/catalog/elegant-kids-outfit.jpg",
+      "desc": "Trendy kids wear offering a blend of comfort and style.",
+      "price": 1899,
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y"
+      ],
+      "colors": [
+        "Mixed"
+      ],
+      "occasions": [
+        "Party",
+        "Festive"
+      ],
+      "fabric": "Silk Blend",
+      "imageHash": "b249c8fb21e9585efe66bb10feaedeff8cb41fd75de509cbbc02e947a9f1744b",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Colorful Kids Set",
+      "image": "/catalog/colorful-kids-set.jpg",
+      "desc": "Vibrant outfit for kids with a cheerful look.",
+      "price": 1299,
+      "sizes": [
+        "2-3Y",
+        "4-5Y",
+        "6-7Y"
+      ],
+      "colors": [
+        "Multicolor"
+      ],
+      "occasions": [
+        "Casual"
+      ],
+      "fabric": "Cotton",
+      "imageHash": "dd2e1103999c059489c4cf818dc0d2fca99ca03dbc1e2f32a9c5e2952bcf4bce",
+      "targetGender": "Boys"
+    },
+    {
+      "name": "Kids Classic Wear",
+      "image": "/catalog/kids-classic-wear.jpg",
+      "desc": "Classic styling for kids with premium detailing.",
+      "price": 1499,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Navy",
+        "White"
+      ],
+      "occasions": [
+        "Family Function"
+      ],
+      "fabric": "Premium Cotton",
+      "imageHash": "ce282b4945d6b2db802a6d4b18784799babf91df7bec4ac0153b5f220794dd7d",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Charming Kids Outfit",
+      "image": "/catalog/charming-kids-outfit.jpg",
+      "desc": "A charming dress designed to keep kids looking their best.",
+      "price": 1699,
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y"
+      ],
+      "colors": [
+        "Pink",
+        "Gold"
+      ],
+      "occasions": [
+        "Party"
+      ],
+      "fabric": "Tulle & Cotton",
+      "imageHash": "f7da9b73a0d0f3a499f97a73956d91b9e96eb9e5c5aa93bd0babbe56624825b8",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Trendy Summer Set",
+      "image": "/catalog/trendy-summer-set.jpg",
+      "desc": "Cool and comfortable kids wear for the summer season.",
+      "price": 1199,
+      "sizes": [
+        "2-3Y",
+        "4-5Y",
+        "6-7Y"
+      ],
+      "colors": [
+        "Yellow",
+        "White"
+      ],
+      "occasions": [
+        "Casual",
+        "Vacation"
+      ],
+      "fabric": "Cotton",
+      "imageHash": "6d5835ae0d11fc2bccdba332392c7d43edbe0c34ba38fb7426c8a82f0fca0346",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Kids Festive Special",
+      "image": "/catalog/kids-festive-special.jpg",
+      "desc": "Special festive collection for kids with beautiful accents.",
+      "price": 1999,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Red",
+        "Gold"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding"
+      ],
+      "fabric": "Silk Blend",
+      "imageHash": "661028b401c412c32598f44c704019c8a7d7c1bde780ef328fddef6b6c6816ab",
+      "targetGender": "Girls"
+    },
+    {
+      "name": "Playful Kids Dress",
+      "image": "/catalog/playful-kids-dress.jpg",
+      "desc": "Playful and elegant dress for kids' special moments.",
+      "price": 1599,
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y"
+      ],
+      "colors": [
+        "Peach",
+        "White"
+      ],
+      "occasions": [
+        "Party",
+        "Family Function"
+      ],
+      "fabric": "Cotton Blend",
+      "imageHash": "40c5a168f80a0f73100942c91db664e98f0957a2f59f6a4dc782303a509c0b99",
+      "targetGender": "Girls"
+    }
+  ],
+  "Festive Wear": [
+    {
+      "name": "Pastel Pink Sharara Set",
+      "image": "/catalog/festive_1.png",
+      "desc": "Elegant pastel pink kurta and sharara set with delicate sequins work and matching dupatta, perfect for daytime festivities.",
+      "price": 6999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Pink"
+      ],
+      "occasions": [
+        "Festive",
+        "Family Function",
+        "Wedding",
+        "Party"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear",
+        "Rectangle"
+      ],
+      "category": "Women's Wear",
+      "imageHash": "2af7cc54cebcf6da1b9348e41005c5395a430f268c4359ff708f5972286e5b9c"
+    },
+    {
+      "name": "Emerald Green Kurta Set",
+      "image": "/catalog/festive_2.png",
+      "desc": "A rich emerald green georgette kurta and pants set embellished with gold threadwork on the neckline and dupatta.",
+      "price": 5999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Green",
+        "Gold"
+      ],
+      "occasions": [
+        "Festive",
+        "Family Function",
+        "Wedding"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Pear",
+        "Apple"
+      ],
+      "category": "Women's Wear",
+      "imageHash": "916278d55c88b4c4cdc03dc6c6728e919e3ffce7f03e00c978b65dd17767eb17"
+    },
+    {
+      "name": "Festive Pink Salwar Suit",
+      "image": "/catalog/festive_3.png",
+      "desc": "Charming traditional pink salwar kameez with detailed silver borders and a soft flowing chiffon dupatta.",
+      "price": 4999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Pink",
+        "Silver"
+      ],
+      "occasions": [
+        "Festive",
+        "Family Function"
+      ],
+      "bodyShapes": [
+        "Hourglass",
+        "Apple",
+        "Rectangle"
+      ],
+      "category": "Women's Wear",
+      "imageHash": "08dac7644e19407ba43dc2187fc62e67ed97ba8c730594d58c4bed5506df6dde"
+    },
+    {
+      "name": "Mustard Gold Lehenga Skirt",
+      "image": "/catalog/festive_4.png",
+      "desc": "Vibrant mustard yellow georgette lehenga skirt featuring a heavily embroidered gold border and matching dupatta.",
+      "price": 12999,
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Family Function"
+      ],
+      "bodyShapes": [
+        "Pear",
+        "Hourglass",
+        "Inverted Triangle"
+      ],
+      "category": "Women's Wear",
+      "imageHash": "55c38a1ba7fdcffab8c1f95bdd034e0e0b13ea9321f55ba303c6dfd544625d8d"
+    },
+    {
+      "name": "Navy Velvet Bandhgala",
+      "image": "/catalog/festive_5.png",
+      "desc": "A sophisticated navy blue velvet bandhgala jacket with metallic gold buttons and an elegant pocket square.",
+      "price": 8999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Navy",
+        "Blue",
+        "Gold"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Family Function",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "imageHash": "9eae1cbc013cd28567af380ebdea964c673f4adc054fd89c51a8b1a41e58629d"
+    },
+    {
+      "name": "Crimson Waistcoat & Kurta Set",
+      "image": "/catalog/festive_6.png",
+      "desc": "A premium textured crimson waistcoat layered over a classic cream cotton kurta, offering a smart-casual festive look.",
+      "price": 4599,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Crimson",
+        "Cream",
+        "Red"
+      ],
+      "occasions": [
+        "Festive",
+        "Family Function",
+        "Casual"
+      ],
+      "category": "Men's Wear",
+      "imageHash": "b8bae56041dffed795b0c474137030fb82ac5654ef882da9afe1486e58772e33"
+    },
+    {
+      "name": "Royal Embroidered Sherwani",
+      "image": "/catalog/festive_7.png",
+      "desc": "An exquisite cream and gold jacquard sherwani detailed with dense traditional hand-embroidery for groom's wear.",
+      "price": 18999,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Cream",
+        "Gold"
+      ],
+      "occasions": [
+        "Wedding",
+        "Family Function",
+        "Festive"
+      ],
+      "category": "Men's Wear",
+      "imageHash": "e06c9522aa1d77b6f106fcd62c452f267c3363a234653b3c9cdbe1fa8436a2c3"
+    },
+    {
+      "name": "Classic Beige Kurta Set",
+      "image": "/catalog/festive_8.png",
+      "desc": "A refined beige cotton-silk kurta set offering subtle texture and high comfort for wedding guest wear.",
+      "price": 2999,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Beige",
+        "Cream"
+      ],
+      "occasions": [
+        "Festive",
+        "Family Function",
+        "Wedding",
+        "Casual"
+      ],
+      "category": "Men's Wear",
+      "imageHash": "7f0bfe7084a11ef44be0d1a9cdf5734cdccbcad11a8617c4458fba8ccf8484d6"
+    },
+    {
+      "name": "Girls' Traditional Lehenga",
+      "image": "/catalog/festive_9.png",
+      "desc": "A festive traditional lehenga set for girls, featuring rich zari borders, floral highlights, and traditional jewelry accessories.",
+      "price": 3499,
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y"
+      ],
+      "colors": [
+        "Red",
+        "Gold",
+        "Pink"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Family Function"
+      ],
+      "category": "Kids' Apparel",
+      "fabric": "Silk",
+      "imageHash": "cd5165d5cb7017ee4c06c6a9b071cda8f6a9a9f58287909d6b44a6f40bee898b"
+    },
+    {
+      "name": "Boys' Blue Kurta & Nehru Jacket",
+      "image": "/catalog/festive_10.png",
+      "desc": "A handsome boys' blue silk kurta paired with a structured grey patterned Nehru jacket and contrast pocket square.",
+      "price": 3299,
+      "sizes": [
+        "3-4Y",
+        "5-6Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "Blue",
+        "Grey"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Family Function"
+      ],
+      "category": "Kids' Apparel",
+      "fabric": "Silk & Cotton",
+      "imageHash": "1be32148450628ab7292ff6394b7d41d1d778e9e8865b155ac11e6617a655107"
+    },
+    {
+      "name": "Kids' Festive Coordinates",
+      "image": "/catalog/festive_11.png",
+      "desc": "Vibrant ethnic coordinates for kids, featuring a bright orange kurta for boys and a matching pink and green lehenga for girls.",
+      "price": 3999,
+      "sizes": [
+        "4-5Y",
+        "6-7Y",
+        "8-9Y"
+      ],
+      "colors": [
+        "Orange",
+        "Pink",
+        "Green"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Family Function"
+      ],
+      "category": "Kids' Apparel",
+      "fabric": "Silk",
+      "imageHash": "39fe5ee9e3ae9b94083d00b6131bb205ef0eeda935cbe0a2133a4684c8fb7b94"
+    },
+    {
+      "name": "Maroon Velvet Indo-Western",
+      "image": "/catalog/festive_indo_western.png",
+      "desc": "A royal men's Indo-Western sherwani in deep maroon velvet with gold embroidery, paired with black trousers.",
+      "price": 15999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "Maroon",
+        "Red",
+        "Gold",
+        "Black"
+      ],
+      "occasions": [
+        "Wedding",
+        "Festive",
+        "Family Function"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Velvet",
+      "imageHash": "f891a1a094b7606f8d38273f48fc9b0b95993e5488b1b5d871e8ae89fd0b58e7"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 1",
+      "image": "/catalog/exclusive-festive-wear-collection-1.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 5903,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "89834072dc820010af5e2b46dbb194da9a338ac79eb9c9b7046ece43cd43d03b"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 2",
+      "image": "/catalog/exclusive-festive-wear-collection-2.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 9822,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "44d65d644e057cf238345defe3035d51882582bdfe78cb6f7d156160b0fc7813"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 3",
+      "image": "/catalog/exclusive-festive-wear-collection-3.webp",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 5589,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "626ababb04f62422a59d104555e6657c0e17b48cbc8122e92513319e0e16f78a"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 4",
+      "image": "/catalog/exclusive-festive-wear-collection-4.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 6198,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "c3d0af798ec5333889e623cd7d125d4395f6100b0938f96a394923f00f698648"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 5",
+      "image": "/catalog/exclusive-festive-wear-collection-5.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 6570,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "365c057b64f160a745bb8cc065520580b8cb9b93dd9756820a239a060aa322ff"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 6",
+      "image": "/catalog/exclusive-festive-wear-collection-6.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 8356,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "9901d90d124686bc4c9a91478ea266ee6802574d931f02dbe257ab94d4e0c273"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 7",
+      "image": "/catalog/exclusive-festive-wear-collection-7.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 6901,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "1cd0f5ed72a90256ad3f776e7f3d42e26f92f897943b295755c4f34eec66288f"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 8",
+      "image": "/catalog/exclusive-festive-wear-collection-8.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 4001,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "fd10a8c9188f06e93fe7b1f690153627881a234636bd013e3feadda299237c1f"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 9",
+      "image": "/catalog/exclusive-festive-wear-collection-9.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 3632,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "ccd4ebc693cfea286b83431087d7639c5ea3a4ff3bf8c0d76e4171728e3ef7c9"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 10",
+      "image": "/catalog/exclusive-festive-wear-collection-10.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 7719,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "eeed1b1b324b56a1a2b83affc74e443ed391c1cfeae05125a932860f06dd2ece"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 11",
+      "image": "/catalog/exclusive-festive-wear-collection-11.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 7787,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "560f3e0425a4e9deab679c91e2e619572cd1584ffd9834f866af83e0aabc63c3"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 12",
+      "image": "/catalog/exclusive-festive-wear-collection-12.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 2357,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "2938eb041b1dfd63e4efc60bed06d3a0013f398d68d6f664fd93cc876a45a52a"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 13",
+      "image": "/catalog/exclusive-festive-wear-collection-13.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 8812,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "89165b3e94c7598cabd5b1a400aed0b9fdafeb6dfaea08108c8d80a2142a65f6"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 14",
+      "image": "/catalog/exclusive-festive-wear-collection-14.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 9152,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "fce2cdb66ddf63ea11ee24b8aa93e59810cdab4b2a80b24fb3512e28977a6f37"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 15",
+      "image": "/catalog/exclusive-festive-wear-collection-15.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 5635,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "02bf852d313ec5326f703f789ea0c74b6bbf39f78bc8ade4c807449e821ba116"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 16",
+      "image": "/catalog/exclusive-festive-wear-collection-16.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 4631,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "a1601a0b199ee83c7b728376d7549ed0f886dc1637c88a792fd0f40cfe6a1e23"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 17",
+      "image": "/catalog/exclusive-festive-wear-collection-17.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 4834,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "62c4950e04453860bf8efaace9922cf3891050071acf73ad1f60f775c9daec52"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 18",
+      "image": "/catalog/exclusive-festive-wear-collection-18.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 8748,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "a5325e2fd3e26d8dea28f82d4cb637d42b0dfcc1998c21b4ec95772cd19a7455"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 19",
+      "image": "/catalog/exclusive-festive-wear-collection-19.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 4298,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "7f9299010e186fbea736a7eb6d3bab21e736658789f6552889944fe4200f0d1a"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 20",
+      "image": "/catalog/exclusive-festive-wear-collection-20.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 5201,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "2ab47b172baf450c02dd54d02de70e71f6c9aaef0b3012d229e6af5bd9df312c"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 22",
+      "image": "/catalog/exclusive-festive-wear-collection-22.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 3714,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "dd64e464be45282922972310c9e965c85d53b82c71fa71d37c54bc14b06e8327"
+    },
+    {
+      "name": "Exclusive Festive Wear Collection 23",
+      "image": "/catalog/exclusive-festive-wear-collection-23.jpg",
+      "desc": "Impeccably tailored exclusive festive wear designed to make a grand statement at your celebrations and family functions.",
+      "price": 9809,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Multicolor",
+        "Festive Tone"
+      ],
+      "occasions": [
+        "Festive",
+        "Wedding",
+        "Party"
+      ],
+      "category": "Men's Wear",
+      "fabric": "Premium Blend",
+      "imageHash": "99a843a5722fe3e500664a8581d912372dc66599556d2fe6414f15cf3cb76c9c"
+    }
+  ]
+}
